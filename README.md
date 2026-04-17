@@ -75,10 +75,3 @@ Repository (ChatRepository.kt): The single source of truth for data. It decides 
 cache) or Retrofit (remote network).
 
 Model (Message.kt, ChatSession.kt): Database tables (@Entity) and data classes.
-
-# 📄 LicenseMIT License
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-... (MIT License text) ...
-
